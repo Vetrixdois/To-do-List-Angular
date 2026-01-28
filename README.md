@@ -91,4 +91,4 @@ Sugestões e feedbacks são sempre bem-vindos! 😊
 ## 👤 Autor
 
 **Seu Nome**  
-🔗 LinkedIn: (https://www.linkedin.com/in/francisco-pavezzi/)
+🔗 LinkedIn: https://www.linkedin.com/in/francisco-pavezzi/
